@@ -1,3 +1,3 @@
 # hello-world
-GIT learnig
+GIT nauka
 some changes made to this file
